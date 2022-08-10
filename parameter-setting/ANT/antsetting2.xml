@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ACO>
+ <Original_Number_of_Traits>3</Original_Number_of_Traits>
+ <Alpha>5</Alpha>
+ <Beta>10</Beta>
+ <Evaporation>0.8</Evaporation>
+ <Number_Of_Iterations>800</Number_Of_Iterations>
+ <Ant_Factor>0.9</Ant_Factor>
+ <Random_Factor>0.04</Random_Factor>
+</ACO>
